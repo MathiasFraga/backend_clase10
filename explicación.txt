@@ -1,0 +1,8 @@
+Paso a explicar preferencias en cada uno de las plantillas
+
+HBS: Me costo mucho entender la logica para incluirlo en BODY, tuv que darle bastante vuelta.
+
+PUG: Me complico un poco , sin embargo una vez con practica me resulto interesante tema de la estructura que tiene, más a como uno venia trabajando en HTML. 
+Creo haberle encontrado la vuelta
+
+EJS: Creo que tiene una logica totalmente distinta a las que veniamos usando, como por ejemplo el uso de tags, pero más facil para generar los archivos.

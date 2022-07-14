@@ -1,0 +1,27 @@
+[
+	{},
+	{
+		"title": "Probando 1",
+		"price": "50",
+		"thumbnail": "220px-Official_Montevideo_City_Torque_logo.png",
+		"id": 2
+	},
+	{
+		"title": "Producto1",
+		"price": "23",
+		"thumbnail": "",
+		"id": 3
+	},
+	{
+		"title": "Probando producto hbs",
+		"price": "12",
+		"thumbnail": "",
+		"id": 4
+	},
+	{
+		"title": "Producto 2 hbs",
+		"price": "15",
+		"thumbnail": "",
+		"id": 5
+	}
+]
